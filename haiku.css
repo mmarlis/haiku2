@@ -1,0 +1,33 @@
+body{
+    background-image: url("nong-vang-Hqa-Ymae0k0-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+    background-position-x: 60%;
+    color: wheat;
+
+}
+p#output1,p#output2,p#output3{
+    margin: 5px 0px 5px 0px;
+}
+
+h1{
+    font-family: 'Reenie Beanie';
+    font-size: 50px;
+}
+
+h4{
+    font-family: 'Sen', sans-serif;
+}
+
+.center{
+     font-family: 'Sen', sans-serif;;
+}
+
+
+div.center{
+
+    position: absolute;
+    top: 5%;
+    width: 100%;
+    text-align: center;
+}
